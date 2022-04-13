@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler
 - ✈ I like technology, aviation, and the outdoors
-- 🌱 I’m currently going through Harvard's Introduction to Computer Science (CS50x) course on edX
+- 🌱 Currently learning Linux and Python
 
 <!---
 tyl-r/tyl-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
