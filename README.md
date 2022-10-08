@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tyler
+- 👋 ✈✈✈
 - ✈ I like technology, aviation, and the outdoors
 - 🌱 Currently learning Linux and Python
 
